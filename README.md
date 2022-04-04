@@ -40,7 +40,7 @@
  
  我叫Karno。
  
- ![hey](./picture1.png)
+ ![hey](https://github.com/KarnoL25/blog-test/blob/main/picture1.png)
 
 平时喜欢逛[bilibil](www.bilibili.com)
  爱好有：
