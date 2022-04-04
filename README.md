@@ -39,6 +39,10 @@
  那么，再次自我介绍一下吧！
  
  我叫Karno。
+ 
+ ![hey](./picture1.png)
+
+平时喜欢逛[bilibil](www.bilibili.com)
  爱好有：
  1. 读书
  2. 游戏
