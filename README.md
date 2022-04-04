@@ -42,7 +42,7 @@
  
  ![hey](https://github.com/KarnoL25/blog-test/blob/main/picture1.png)
 
-平时喜欢逛[bilibil](www.bilibili.com)
+平时喜欢逛[bilibili](https://www.bilibili.com/)
  爱好有：
  1. 读书
  2. 游戏
